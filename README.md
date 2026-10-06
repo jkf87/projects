@@ -4,14 +4,14 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 ## 운영 중인 사이트
 
-- [Claude Code Mods Guide](https://cc-mod-guide.netlify.app) — Claude Code mod 비공식 가이드 (6개 언어, mod 1,400여 개 디렉터리) ([소스](https://github.com/jkf87/mod-guide))
+- [Claude Code Mods Guide](https://mods.guide) — Claude Code mod 비공식 가이드 (6개 언어, mod 1,700여 개 디렉터리) ([소스](https://github.com/jkf87/mod-guide))
 
 ## Claude Code·Codex 도구
 
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
 | [ide-mod](https://github.com/jkf87/ide-mod) | Claude Code IDE pane mod: agent board + file tree + tabbed viewer | 0 |
-| [mod-guide](https://github.com/jkf87/mod-guide) · [사이트](https://cc-mod-guide.netlify.app) | Unofficial community guide to Claude Code mods (function hooks) in 6 languages, with a searchable mod directory | 0 |
+| [mod-guide](https://github.com/jkf87/mod-guide) · [사이트](https://mods.guide) | Unofficial community guide to Claude Code mods (function hooks) in 6 languages, with a searchable mod directory | 0 |
 | [jev-cc](https://github.com/jkf87/jev-cc) | Jev(TypeSafe)가 요청을 먼저 판정하고 필요한 작업만 알맞은 Claude 모델의 claude -p로 넘기는 로컬 라우터 · Claude Code skill | 0 |
 | [jev-codex](https://github.com/jkf87/jev-codex) | Jev-first local model router and Codex skill: choose a suitable model, then execute once. | 0 |
 | [gjc-agy-skill](https://github.com/jkf87/gjc-agy-skill) | GJC(가재코드) 스킬 — Antigravity CLI(agy) 연동: 비전/OCR, 이미지 생성, print 모드 레시피. 실측 기반 함정 문서 포함 | 15 |
