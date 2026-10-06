@@ -1,0 +1,18 @@
+{
+  "owner": "jkf87",
+  "title": "jkf87 프로젝트 모음",
+  "intro": "AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동화, 한국어 글쓰기, 연구 재현, 강의 실습 자료를 만들어 공개하고 있어요. 별점과 설명은 GitHub에서 매주 자동으로 다시 가져와요.",
+  "sites": [
+    { "name": "Claude Code Mods Guide", "url": "https://cc-mod-guide.netlify.app", "repo": "mod-guide", "desc": "Claude Code mod 비공식 가이드 (6개 언어, mod 1,400여 개 디렉터리)" }
+  ],
+  "groups": [
+    { "title": "Claude Code·Codex 도구", "repos": ["ide-mod", "mod-guide", "jev-cc", "jev-codex", "gjc-agy-skill", "antigravity-usage", "deck-loop", "paper-loop", "taste-profile-landing", "storybook-taste-archive", "app-inventor-aia-loop-skill", "sky-chrome-screenshot-skill", "remotion-skill", "aaicon"] },
+    { "title": "OpenClaw", "repos": ["ohmyclaw", "openclaw-kakao", "openclaw-codex-image-gen", "openclaw-session-router", "openclaw-claude-session-bridge", "memora-openclaw", "clawdog", "rtk-setup-skill", "openclaw-mlx-setup", "gateway-wsl-autostart", "openclaw-patch", "insta-cardnews-skill", "paper-workflow", "travel-price-comparison-skill", "threads-toolkit-skill", "threads-scraper-skill", "threads-uploader-skill"] },
+    { "title": "한글(HWP·HWPX)·오피스 문서", "repos": ["hwp-mcp", "hwpx-skill", "hwp2hwpx-python-refactor", "lecture-ppt-generator", "class-loop", "character-deck-reviser", "cardnews-maker-skill", "folder-organizer-skill"] },
+    { "title": "한국어 글쓰기·자막", "repos": ["noslop-ko", "nobamtee", "srt-translator", "subtitle-encoder"] },
+    { "title": "연구·평가·재현", "repos": ["jev-rlcd-replication", "korean-decision-benchmark", "gnomon", "tide", "korean-handwriting-ocr-benchmark", "coding-harness-review", "llm-memory-benchmark-survey", "agent-harness-survey", "text2entity-survey"] },
+    { "title": "강의·실습 자료", "repos": ["jev-handson", "claude-code-handson"] },
+    { "title": "브라우저·웹 자동화", "repos": ["jev-ultrafast-naver", "court-auction-scraper", "sns-devtools-reply", "sns-reply-skills", "threads-parser", "wp-blog-publisher"] },
+    { "title": "앱·도구", "repos": ["murmur", "layer-split-releases", "screenshot-markup-picker-releases", "klef-collector-releases", "kipris-performance-verifier", "personnel-stats-app", "messenger-rag", "phone-agent", "outdoor-weather", "finding-neukgu", "boox-rapid-draw"] }
+  ]
+}
