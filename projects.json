@@ -3,7 +3,7 @@
   "title": "jkf87 프로젝트 모음",
   "intro": "AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동화, 한국어 글쓰기, 연구 재현, 강의 실습 자료를 만들어 공개하고 있어요. 별점과 설명은 GitHub에서 매주 자동으로 다시 가져와요.",
   "sites": [
-    { "name": "Claude Code Mods Guide", "url": "https://mods.guide", "repo": "mod-guide", "desc": "Claude Code mod 비공식 가이드 (6개 언어, mod 1,700여 개 디렉터리)" }
+    { "name": "Claude Code Mods Guide", "url": "https://mods.guide", "repo": "mod-guide", "desc": "Claude Code mod 비공식 가이드 (6개 언어, 매일 갱신되는 mod 디렉터리)" }
   ],
   "groups": [
     { "title": "Claude Code·Codex 도구", "repos": ["ide-mod", "mod-guide", "jev-cc", "jev-codex", "gjc-agy-skill", "antigravity-usage", "deck-loop", "paper-loop", "taste-profile-landing", "storybook-taste-archive", "app-inventor-aia-loop-skill", "sky-chrome-screenshot-skill", "remotion-skill", "aaicon"] },
