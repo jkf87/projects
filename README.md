@@ -10,12 +10,12 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
-| [ide-mod](https://github.com/jkf87/ide-mod) | Claude Code IDE pane mod: agent board + file tree + tabbed viewer | 1 |
+| [ide-mod](https://github.com/jkf87/ide-mod) | Claude Code IDE pane mod: agent board, file tree and HWP/PDF viewer, system status, Claude/Codex/Antigravity usage band, session handoff | 7 |
 | [mod-guide](https://github.com/jkf87/mod-guide) · [사이트](https://mods.guide) | Unofficial community guide to Claude Code mods (function hooks) in 6 languages, with a searchable mod directory | 0 |
 | [jev-cc](https://github.com/jkf87/jev-cc) | Jev(TypeSafe)가 요청을 먼저 판정하고 필요한 작업만 알맞은 Claude 모델의 claude -p로 넘기는 로컬 라우터 · Claude Code skill | 0 |
 | [jev-codex](https://github.com/jkf87/jev-codex) | Jev-first local model router and Codex skill: choose a suitable model, then execute once. | 0 |
-| [gjc-agy-skill](https://github.com/jkf87/gjc-agy-skill) | GJC(가재코드) 스킬 — Antigravity CLI(agy) 연동: 비전/OCR, 이미지 생성, print 모드 레시피. 실측 기반 함정 문서 포함 | 15 |
-| [antigravity-usage](https://github.com/jkf87/antigravity-usage) | Google Antigravity IDE & CLI 실시간 모델 쿼터(/usage) 조회 스킬 | 1 |
+| [gjc-agy-skill](https://github.com/jkf87/gjc-agy-skill) | GJC(가재코드) 스킬 — Antigravity CLI(agy) 연동: 비전/OCR, 이미지 생성, print 모드 레시피. 실측 기반 함정 문서 포함 | 16 |
+| [antigravity-usage](https://github.com/jkf87/antigravity-usage) | Google Antigravity IDE & CLI 실시간 모델 쿼터(/usage) 조회 스킬 | 2 |
 | [deck-loop](https://github.com/jkf87/deck-loop) | 정부 보고 PPT 스타일 슬라이드 제작 루프: 원고→pptxgenjs 조판→글자폭 실측→LibreOffice 렌더 계측→멱등 게이트 (Claude Code skill) | 0 |
 | [paper-loop](https://github.com/jkf87/paper-loop) | Paper Loop: 리뷰가 실험을 재설계하는 자기참조 AI-for-Science 하네스 (Claude Code 기반 Whisper LoRA 사례, 코드·로그·리뷰·프롬프트 전량 공개) | 1 |
 | [taste-profile-landing](https://github.com/jkf87/taste-profile-landing) | Self-contained Codex skill for turning taste references into production landing pages | 0 |
@@ -52,7 +52,7 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
 | [hwp-mcp](https://github.com/jkf87/hwp-mcp) | mcp for handling hwp | 268 |
-| [hwpx-skill](https://github.com/jkf87/hwpx-skill) | AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성 | 273 |
+| [hwpx-skill](https://github.com/jkf87/hwpx-skill) | AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성 | 276 |
 | [hwp2hwpx-python-refactor](https://github.com/jkf87/hwp2hwpx-python-refactor) | Pure Python HWP to HWPX converter focused on Hancom compatibility and rendering fidelity | 4 |
 | [lecture-ppt-generator](https://github.com/jkf87/lecture-ppt-generator) | Korean lecture storyboard → production PPTX. AI agent skill with html2pptx pipeline, 40 icons, CJK overflow fix. | 2 |
 | [class-loop](https://github.com/jkf87/class-loop) | Codex skill for creating Korean class PPTX and HWPX lesson materials from video and teaching content | 3 |
@@ -77,7 +77,7 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 | [korean-decision-benchmark](https://github.com/jkf87/korean-decision-benchmark) | Reproducible Colab benchmark of SemIf, Decider, Laya and TypeSafe Jev on Korean hate speech; pinned models, isolated environments, MIT code. | 0 |
 | [gnomon](https://github.com/jkf87/gnomon) | Rubric-first evaluation for AI agent loops: Python harness (OpenClaw integration) + TypeScript Backward Design gate engine (works with any agent loop) | 3 |
 | [tide](https://github.com/jkf87/tide) | TIDE — a pattern for letting an LLM agent get better at noticing over time. Detection-pattern extraction idea file (EN/KO). | 2 |
-| [korean-handwriting-ocr-benchmark](https://github.com/jkf87/korean-handwriting-ocr-benchmark) | Korean elementary student handwriting OCR benchmark dataset (CER 4.3%, 95.7% accuracy) | 1 |
+| [korean-handwriting-ocr-benchmark](https://github.com/jkf87/korean-handwriting-ocr-benchmark) | Korean elementary student handwriting OCR benchmark dataset (CER 4.3%, 95.7% accuracy) | 2 |
 | [coding-harness-review](https://github.com/jkf87/coding-harness-review) | Comparative Evaluation of AI Coding Harness Tools: From Answer Generation to Failure Management | 0 |
 | [llm-memory-benchmark-survey](https://github.com/jkf87/llm-memory-benchmark-survey) | LLM Agent Memory Performance: Benchmarks, Architecture Comparison, and Evaluation Infrastructure | 0 |
 | [agent-harness-survey](https://github.com/jkf87/agent-harness-survey) | Survey: Agent Harness Engineering - LLM Agent Execution Infrastructure | 0 |
@@ -87,7 +87,7 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
-| [jev-handson](https://github.com/jkf87/jev-handson) | Jev 특강 실습 코드(1~3강): TypeSafe Jev를 Claude Code·Codex·OpenClaw에 붙이는 스킬·훅·라우터·활용 예제 | 4 |
+| [jev-handson](https://github.com/jkf87/jev-handson) | Jev 특강 실습 코드(1~3강): TypeSafe Jev를 Claude Code·Codex·OpenClaw에 붙이는 스킬·훅·라우터·활용 예제 | 5 |
 | [claude-code-handson](https://github.com/jkf87/claude-code-handson) | 한국원자력연구원(KAERI) Claude Code 마스터 클래스 실습 자료 (4차시) | 0 |
 
 ## 브라우저·웹 자동화
@@ -119,4 +119,4 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 ---
 
-공개 저장소 71개 · 2026-10-06 갱신 · `node scripts/build-readme.mjs`로 다시 만들어요. 목록과 분류는 [projects.json](projects.json)에서 고쳐요.
+공개 저장소 71개 · 2026-10-12 갱신 · `node scripts/build-readme.mjs`로 다시 만들어요. 목록과 분류는 [projects.json](projects.json)에서 고쳐요.
