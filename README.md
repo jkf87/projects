@@ -10,7 +10,7 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
-| [ide-mod](https://github.com/jkf87/ide-mod) | Claude Code IDE pane mod: agent board, file tree and HWP/PDF viewer, system status, Claude/Codex/Antigravity usage band, session handoff | 7 |
+| [ide-mod](https://github.com/jkf87/ide-mod) | Claude Code IDE pane mod: agent board, file tree and HWP/PDF viewer, system status, Claude/Codex/Antigravity usage band, session handoff | 8 |
 | [mod-guide](https://github.com/jkf87/mod-guide) · [사이트](https://mods.guide) | Unofficial community guide to Claude Code mods (function hooks) in 6 languages, with a searchable mod directory | 0 |
 | [jev-cc](https://github.com/jkf87/jev-cc) | Jev(TypeSafe)가 요청을 먼저 판정하고 필요한 작업만 알맞은 Claude 모델의 claude -p로 넘기는 로컬 라우터 · Claude Code skill | 0 |
 | [jev-codex](https://github.com/jkf87/jev-codex) | Jev-first local model router and Codex skill: choose a suitable model, then execute once. | 0 |
@@ -29,7 +29,7 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
-| [ohmyclaw](https://github.com/jkf87/ohmyclaw) | OpenClaw Plan→Work→Review workflow engine with model routing | 60 |
+| [ohmyclaw](https://github.com/jkf87/ohmyclaw) | OpenClaw Plan→Work→Review workflow engine with model routing | 59 |
 | [openclaw-kakao](https://github.com/jkf87/openclaw-kakao) | kmsg Skill for openclaw - KakaoTalk 메시지 자동화 스킬 | 19 |
 | [openclaw-codex-image-gen](https://github.com/jkf87/openclaw-codex-image-gen) | OpenClaw plugin for Codex CLI image generation ($imagegen) | 15 |
 | [openclaw-session-router](https://github.com/jkf87/openclaw-session-router) | OpenClaw dashboard session router — manual + Jev-judged auto routing of messages to agent sessions (MIT) | 0 |
@@ -51,8 +51,8 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
-| [hwp-mcp](https://github.com/jkf87/hwp-mcp) | mcp for handling hwp | 268 |
-| [hwpx-skill](https://github.com/jkf87/hwpx-skill) | AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성 | 276 |
+| [hwp-mcp](https://github.com/jkf87/hwp-mcp) | mcp for handling hwp | 269 |
+| [hwpx-skill](https://github.com/jkf87/hwpx-skill) | AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성 | 283 |
 | [hwp2hwpx-python-refactor](https://github.com/jkf87/hwp2hwpx-python-refactor) | Pure Python HWP to HWPX converter focused on Hancom compatibility and rendering fidelity | 4 |
 | [lecture-ppt-generator](https://github.com/jkf87/lecture-ppt-generator) | Korean lecture storyboard → production PPTX. AI agent skill with html2pptx pipeline, 40 icons, CJK overflow fix. | 2 |
 | [class-loop](https://github.com/jkf87/class-loop) | Codex skill for creating Korean class PPTX and HWPX lesson materials from video and teaching content | 3 |
@@ -87,7 +87,7 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
-| [jev-handson](https://github.com/jkf87/jev-handson) | Jev 특강 실습 코드(1~3강): TypeSafe Jev를 Claude Code·Codex·OpenClaw에 붙이는 스킬·훅·라우터·활용 예제 | 5 |
+| [jev-handson](https://github.com/jkf87/jev-handson) | Jev 특강 실습 코드(1~3강): TypeSafe Jev를 Claude Code·Codex·OpenClaw에 붙이는 스킬·훅·라우터·활용 예제 | 7 |
 | [claude-code-handson](https://github.com/jkf87/claude-code-handson) | 한국원자력연구원(KAERI) Claude Code 마스터 클래스 실습 자료 (4차시) | 0 |
 
 ## 브라우저·웹 자동화
@@ -108,7 +108,7 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 | [murmur](https://github.com/jkf87/murmur) | Realtime speech transcription & translation for Apple Silicon Mac | 22 |
 | [layer-split-releases](https://github.com/jkf87/layer-split-releases) | Layer Split installers and release notes | 1 |
 | [screenshot-markup-picker-releases](https://github.com/jkf87/screenshot-markup-picker-releases) | ScreenshotMarkupPicker macOS 앱 배포와 릴리스 노트 | 2 |
-| [klef-collector-releases](https://github.com/jkf87/klef-collector-releases) | KLEF 공람문서 요약: 공개 다운로드, Windows 로컬 도우미 및 Chrome 확장 설치 안내 | 4 |
+| [klef-collector-releases](https://github.com/jkf87/klef-collector-releases) | KLEF 공람문서 요약: 공개 다운로드, Windows 로컬 도우미 및 Chrome 확장 설치 안내 | 5 |
 | [kipris-performance-verifier](https://github.com/jkf87/kipris-performance-verifier) | 특허·논문 실적의 형식·중복·누락을 검사하고 KIPRIS Plus·Crossref로 교차검증하는 로컬 웹 도구 | 0 |
 | [personnel-stats-app](https://github.com/jkf87/personnel-stats-app) | Windows용 로컬 SQLite 인사 통계 관리 도구 | 0 |
 | [messenger-rag](https://github.com/jkf87/messenger-rag) | 충북소통메신저 RAG 검색 앱 - Graph RAG 기반 쪽지/메시지 시맨틱 검색 | 1 |
@@ -119,4 +119,4 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 ---
 
-공개 저장소 71개 · 2026-10-12 갱신 · `node scripts/build-readme.mjs`로 다시 만들어요. 목록과 분류는 [projects.json](projects.json)에서 고쳐요.
+공개 저장소 71개 · 2026-10-19 갱신 · `node scripts/build-readme.mjs`로 다시 만들어요. 목록과 분류는 [projects.json](projects.json)에서 고쳐요.
