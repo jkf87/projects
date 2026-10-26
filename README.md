@@ -10,8 +10,8 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
-| [ide-mod](https://github.com/jkf87/ide-mod) | Claude Code IDE pane mod: agent board, file tree and HWP/PDF viewer, system status, Claude/Codex/Antigravity usage band, session handoff | 8 |
-| [mod-guide](https://github.com/jkf87/mod-guide) · [사이트](https://mods.guide) | Unofficial community guide to Claude Code mods (function hooks) in 6 languages, with a searchable mod directory | 0 |
+| [ide-mod](https://github.com/jkf87/ide-mod) | Claude Code IDE pane mod: agent board, file tree and HWP/PDF viewer, system status, Claude/Codex/Antigravity usage band, session handoff | 9 |
+| [mod-guide](https://github.com/jkf87/mod-guide) · [사이트](https://mods.guide) | Unofficial community guide to Claude Code mods (function hooks) in 6 languages, with a searchable mod directory | 1 |
 | [jev-cc](https://github.com/jkf87/jev-cc) | Jev(TypeSafe)가 요청을 먼저 판정하고 필요한 작업만 알맞은 Claude 모델의 claude -p로 넘기는 로컬 라우터 · Claude Code skill | 0 |
 | [jev-codex](https://github.com/jkf87/jev-codex) | Jev-first local model router and Codex skill: choose a suitable model, then execute once. | 0 |
 | [gjc-agy-skill](https://github.com/jkf87/gjc-agy-skill) | GJC(가재코드) 스킬 — Antigravity CLI(agy) 연동: 비전/OCR, 이미지 생성, print 모드 레시피. 실측 기반 함정 문서 포함 | 16 |
@@ -51,8 +51,8 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
-| [hwp-mcp](https://github.com/jkf87/hwp-mcp) | mcp for handling hwp | 269 |
-| [hwpx-skill](https://github.com/jkf87/hwpx-skill) | AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성 | 283 |
+| [hwp-mcp](https://github.com/jkf87/hwp-mcp) | mcp for handling hwp | 271 |
+| [hwpx-skill](https://github.com/jkf87/hwpx-skill) | AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성 | 289 |
 | [hwp2hwpx-python-refactor](https://github.com/jkf87/hwp2hwpx-python-refactor) | Pure Python HWP to HWPX converter focused on Hancom compatibility and rendering fidelity | 4 |
 | [lecture-ppt-generator](https://github.com/jkf87/lecture-ppt-generator) | Korean lecture storyboard → production PPTX. AI agent skill with html2pptx pipeline, 40 icons, CJK overflow fix. | 2 |
 | [class-loop](https://github.com/jkf87/class-loop) | Codex skill for creating Korean class PPTX and HWPX lesson materials from video and teaching content | 3 |
@@ -112,11 +112,11 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 | [kipris-performance-verifier](https://github.com/jkf87/kipris-performance-verifier) | 특허·논문 실적의 형식·중복·누락을 검사하고 KIPRIS Plus·Crossref로 교차검증하는 로컬 웹 도구 | 0 |
 | [personnel-stats-app](https://github.com/jkf87/personnel-stats-app) | Windows용 로컬 SQLite 인사 통계 관리 도구 | 0 |
 | [messenger-rag](https://github.com/jkf87/messenger-rag) | 충북소통메신저 RAG 검색 앱 - Graph RAG 기반 쪽지/메시지 시맨틱 검색 | 1 |
-| [phone-agent](https://github.com/jkf87/phone-agent) | AI real-time voice phone agent using Twilio + OpenAI Realtime API | 5 |
+| [phone-agent](https://github.com/jkf87/phone-agent) | AI real-time voice phone agent using Twilio + OpenAI Realtime API | 9 |
 | [outdoor-weather](https://github.com/jkf87/outdoor-weather) | GPS 기반 야외활동 가능여부 날씨 대시보드 (KMA 위성 + RainViewer 레이더 + Open-Meteo 16일 예보) | 0 |
 | [finding-neukgu](https://github.com/jkf87/finding-neukgu) | 늑구를 찾아라 - 대전 CCTV 지도 탐색기 | 0 |
 | [boox-rapid-draw](https://github.com/jkf87/boox-rapid-draw) | Boox 전자잉크 기기에서 공식 앱 밖에서도 스타일러스로 빠르게 필기할 수 있는 도구 (포크: 위치 정확도 및 안정성 개선) | 0 |
 
 ---
 
-공개 저장소 71개 · 2026-10-19 갱신 · `node scripts/build-readme.mjs`로 다시 만들어요. 목록과 분류는 [projects.json](projects.json)에서 고쳐요.
+공개 저장소 71개 · 2026-10-26 갱신 · `node scripts/build-readme.mjs`로 다시 만들어요. 목록과 분류는 [projects.json](projects.json)에서 고쳐요.
