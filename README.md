@@ -18,7 +18,7 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 | [antigravity-usage](https://github.com/jkf87/antigravity-usage) | Google Antigravity IDE & CLI 실시간 모델 쿼터(/usage) 조회 스킬 | 2 |
 | [deck-loop](https://github.com/jkf87/deck-loop) | 정부 보고 PPT 스타일 슬라이드 제작 루프: 원고→pptxgenjs 조판→글자폭 실측→LibreOffice 렌더 계측→멱등 게이트 (Claude Code skill) | 0 |
 | [paper-loop](https://github.com/jkf87/paper-loop) | Paper Loop: 리뷰가 실험을 재설계하는 자기참조 AI-for-Science 하네스 (Claude Code 기반 Whisper LoRA 사례, 코드·로그·리뷰·프롬프트 전량 공개) | 1 |
-| [taste-profile-landing](https://github.com/jkf87/taste-profile-landing) | Self-contained Codex skill for turning taste references into production landing pages | 0 |
+| [taste-profile-landing](https://github.com/jkf87/taste-profile-landing) | Self-contained Codex skill for turning taste references into production landing pages | 1 |
 | [storybook-taste-archive](https://github.com/jkf87/storybook-taste-archive) | A Storybook reference system for collecting taste and turning it into reusable design rules. | 0 |
 | [app-inventor-aia-loop-skill](https://github.com/jkf87/app-inventor-aia-loop-skill) | Officially grounded Codex skill for building, repairing, and validating MIT App Inventor AIA projects | 1 |
 | [sky-chrome-screenshot-skill](https://github.com/jkf87/sky-chrome-screenshot-skill) | Agent Skill for controlling real Chrome with node_repl and @oai/sky and returning actual screenshots | 1 |
@@ -52,7 +52,7 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
 | [hwp-mcp](https://github.com/jkf87/hwp-mcp) | mcp for handling hwp | 271 |
-| [hwpx-skill](https://github.com/jkf87/hwpx-skill) | AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성 | 289 |
+| [hwpx-skill](https://github.com/jkf87/hwpx-skill) | AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성 | 299 |
 | [hwp2hwpx-python-refactor](https://github.com/jkf87/hwp2hwpx-python-refactor) | Pure Python HWP to HWPX converter focused on Hancom compatibility and rendering fidelity | 4 |
 | [lecture-ppt-generator](https://github.com/jkf87/lecture-ppt-generator) | Korean lecture storyboard → production PPTX. AI agent skill with html2pptx pipeline, 40 icons, CJK overflow fix. | 2 |
 | [class-loop](https://github.com/jkf87/class-loop) | Codex skill for creating Korean class PPTX and HWPX lesson materials from video and teaching content | 3 |
@@ -87,7 +87,7 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
-| [jev-handson](https://github.com/jkf87/jev-handson) | Jev 특강 실습 코드(1~3강): TypeSafe Jev를 Claude Code·Codex·OpenClaw에 붙이는 스킬·훅·라우터·활용 예제 | 7 |
+| [jev-handson](https://github.com/jkf87/jev-handson) | Jev 특강 실습 코드(1~3강): TypeSafe Jev를 Claude Code·Codex·OpenClaw에 붙이는 스킬·훅·라우터·활용 예제 | 9 |
 | [claude-code-handson](https://github.com/jkf87/claude-code-handson) | 한국원자력연구원(KAERI) Claude Code 마스터 클래스 실습 자료 (4차시) | 0 |
 
 ## 브라우저·웹 자동화
@@ -119,4 +119,4 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 ---
 
-공개 저장소 71개 · 2026-10-26 갱신 · `node scripts/build-readme.mjs`로 다시 만들어요. 목록과 분류는 [projects.json](projects.json)에서 고쳐요.
+공개 저장소 71개 · 2026-11-02 갱신 · `node scripts/build-readme.mjs`로 다시 만들어요. 목록과 분류는 [projects.json](projects.json)에서 고쳐요.
