@@ -52,7 +52,7 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 | 프로젝트 | 설명 | ★ |
 |---|---|---:|
 | [hwp-mcp](https://github.com/jkf87/hwp-mcp) | mcp for handling hwp | 271 |
-| [hwpx-skill](https://github.com/jkf87/hwpx-skill) | AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성 | 299 |
+| [hwpx-skill](https://github.com/jkf87/hwpx-skill) | AI 에이전트용 HWPX(.hwpx) 문서 생성 스킬 - 한컴오피스 한글 문서를 마크다운/텍스트/URL에서 자동 생성 | 307 |
 | [hwp2hwpx-python-refactor](https://github.com/jkf87/hwp2hwpx-python-refactor) | Pure Python HWP to HWPX converter focused on Hancom compatibility and rendering fidelity | 4 |
 | [lecture-ppt-generator](https://github.com/jkf87/lecture-ppt-generator) | Korean lecture storyboard → production PPTX. AI agent skill with html2pptx pipeline, 40 icons, CJK overflow fix. | 2 |
 | [class-loop](https://github.com/jkf87/class-loop) | Codex skill for creating Korean class PPTX and HWPX lesson materials from video and teaching content | 3 |
@@ -119,4 +119,4 @@ AI 에이전트(Claude Code·Codex·OpenClaw) 도구, 한글(HWP) 문서 자동�
 
 ---
 
-공개 저장소 71개 · 2026-11-02 갱신 · `node scripts/build-readme.mjs`로 다시 만들어요. 목록과 분류는 [projects.json](projects.json)에서 고쳐요.
+공개 저장소 71개 · 2026-11-09 갱신 · `node scripts/build-readme.mjs`로 다시 만들어요. 목록과 분류는 [projects.json](projects.json)에서 고쳐요.
